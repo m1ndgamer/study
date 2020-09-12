@@ -125,7 +125,6 @@ namespace lab2
                 Console.Write($"{elem} ");
             }
             Console.WriteLine();
-
             // c
             float[][] floatArr = new float[3][] { new float[2], new float[3], new float[4] };
             for (var i = 0; i < floatArr.Length; i++)
