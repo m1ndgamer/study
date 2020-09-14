@@ -202,5 +202,5 @@ namespace lab2
             #endregion
             Console.ReadLine();
         }
-    }//(ushort)short.MaxValue;
+    }
 }
