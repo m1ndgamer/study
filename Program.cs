@@ -82,7 +82,7 @@ namespace lab2
             string line4 = null;
             if (string.IsNullOrEmpty(line4))
             {
-                Console.WriteLine($"NULL равен пустой строке?: {line4 == String.Empty}");
+                Console.WriteLine($"NULL равен пустой строке?: {line4 == string.Empty}");
                 Console.WriteLine($"Строка содержит null.");
             }
             // d
